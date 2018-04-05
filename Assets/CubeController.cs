@@ -9,8 +9,6 @@ public class CubeController : MonoBehaviour {
 	// 消滅位置
 	private float deadLine = -10;
 
-	private AudioSource audioSource;
-
 	// Use this for initialization
 	void Start(){
 	}
